@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        express:<input type="text" id="txt">
+        <input type="button" value="calculate" onclick="calc()">
+    </body>
+
+<script>
+    function calc()
+    {
+        try
+        {
+            var data=document.querySelector("#txt").value;
+            var res=eval(data)
+            alert(res);
+        }
+        catch
+        {
+
+        }
+    }
+</script>
+</html>
