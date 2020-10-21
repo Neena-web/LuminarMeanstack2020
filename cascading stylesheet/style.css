@@ -1,0 +1,44 @@
+/*tag/.class/#id
+{
+    property:value;
+    property:value;
+}*/
+h1{
+    color:red;
+}
+body
+{
+    background-color:gray;
+}
+h2{
+    color:#46eb34;
+}
+#one{
+    color:aqua;
+
+}
+#second
+{
+    border-style:dotted;
+    border-color:blue;
+}
+div{
+    border-style:dotted;
+    border-color:yellow;
+}
+.third
+{
+    background-color:yellow;
+    border-style:dotted;
+    border-color:red;
+}
+li{
+    color:brown;
+
+}
+#li1
+{
+  color:green  
+}
+
+

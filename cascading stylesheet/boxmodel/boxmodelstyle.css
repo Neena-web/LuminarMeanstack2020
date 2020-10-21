@@ -1,0 +1,27 @@
+#top
+{
+
+    color:red;
+    border-style:dotted;
+    border-color:violet;
+    margin-left:25%;
+    margin-top:10%;
+    width:50%;
+    padding-left:30px;
+}
+#bottom
+{
+    color:blueviolet;
+    border-style:dotted;
+    border-color:orange;
+    margin-left:25%;
+    margin-top:10%;
+    width:50%;
+    padding-left: 30px;
+
+
+}
+h1
+{
+    font-family: 'Architects Daughter', cursive;
+}
